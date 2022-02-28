@@ -3,7 +3,7 @@
     "path": "C:/Users/USER/Desktop/Panama 2022/Markdown website/Panama Gems/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1160232917",
     "contents": "",
     "dirty": false,
     "created": 1646071631455.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,25",
-        "scrollLine": "0"
+        "cursorPosition": "32,0",
+        "scrollLine": "32"
     },
     "folds": "",
-    "lastKnownWriteTime": 1646082442,
+    "lastKnownWriteTime": 1646086953,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1646082442953,
+    "last_content_update": 1646086953513,
     "read_only": false,
     "read_only_alternatives": []
 }
