@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "path": "Geminates.html",
+      "title": "Geminates",
+      "description": "Pairs of species which split during the formation of the Isthmus of Panama",
+      "author": [],
+      "contents": "\r\nWhat are Geminate species?\r\nGeminate species are…\r\n\r\n\r\n\r\n\r\n\r\nYellowfin Mojarra (Gerres cinereus)\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-28T13:25:36-05:00"
+    },
+    {
+      "path": "Genome_Contamination_Analysis.html",
+      "title": "Genome Contamination Analysis",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-28T13:25:37-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Panama Gems",
+      "description": "When continents join: insights from the Great American Schism on the genomic basis of marine adaptation and resilience  \n",
+      "author": [
+        {
+          "name": "Hubert A. Szczygieł",
+          "url": "https://www.inaturalist.org/people/hubertszcz"
+        },
+        {
+          "name": "Carlos F. Arias",
+          "url": "https://datascience.si.edu/people/dr-carlos-arias"
+        },
+        {
+          "name": "W. Owen McMillan",
+          "url": "https://stri.si.edu/scientist/owen-mcmillan"
+        }
+      ],
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\nHarlequin Bass (Serranus tigrinus)\r\nBackground\r\nhe Central American Isthmus (CAI) was completed roughly three million years ago, providing the backdrop for one of the most remarkable natural experiments of resilience and adaptation in tropical marine organisms. The rise of the CAI simultaneously separated marine populations and profoundly shaped the physical environments of the two newly isolated oceans. Since the completion of the CAI, the Tropical Eastern Pacific (TEP) and the Tropical Western Atlantic (TWA) have differed across most major environmental axes, including temperature, pH, dissolved oxygen and productivity, which are some of the same parameters that are now rapidly changing on a global scale. Moreover, within the TEP, seasonal upwelling in the Bay of Panama relative to a lack of upwelling in the adjacent Gulf of Chiriquí generates striking differences across many of the same environmental variables that distinguish the two oceans.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-28T13:25:38-05:00"
+    }
+  ],
+  "collections": []
+}
