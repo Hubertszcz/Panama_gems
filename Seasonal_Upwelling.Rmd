@@ -1,0 +1,11 @@
+---
+title: "Seasonal Upwelling"
+output: 
+  distill::distill_article:
+    toc: yes
+    toc_float: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
