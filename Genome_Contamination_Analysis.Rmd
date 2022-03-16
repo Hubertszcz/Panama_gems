@@ -178,9 +178,12 @@ You can play with viewer to change colors on figures, tables etc. Figures and ta
 
 #### GenomeScope Results
 
+![](https://static.inaturalist.org/photos/183037756/original.png)
+![](docs/p_colonus_blob_results/linear_plot.png)
+
 ```{r include=T}
 #GenomeScope Resutls
-knitr::include_graphics('C:/Users/USER/Desktop/Panama 2022/Markdown website/Panama Gems/_site/docs/p_colonus_blob_results/linear_plot.png')
+knitr::include_graphics('C:/Users/USER/Desktop/Panama 2022/Markdown website/Panama Gems/docs/p_colonus_blob_results/linear_plot.png')
 ```
 
 ```{r include=T}
@@ -190,7 +193,6 @@ knitr::include_graphics('C:/Users/USER/Desktop/Panama 2022/Markdown website/Pana
 
 #### Assembly statistics in a snail plot
 ```{r include=T}
-#Snail plot/
 knitr::include_graphics('C:/Users/USER/Desktop/Panama 2022/Markdown website/Panama Gems/_site/docs/p_colonus_blob_results/p_colonus_blobt_nb.snail.png')
 ```
 Snail plot summary of assembly statistics for P. colonus. The main plot is divided into 1,000 size-ordered bins around the circumference with each bin representing 0.1% of the 796,160,303 bp assembly. The distribution of record lengths is shown in dark grey with the plot radius scaled to the longest record present in the assembly (39,846,712 bp, shown in red). Orange and pale-orange arcs show the N50 and N90 record lengths (28,775,316 and 10,326,087 bp), respectively. The pale grey spiral shows the cumulative record count on a log scale with white scale lines showing successive orders of magnitude. The blue and pale-blue area around the outside of the plot shows the distribution of GC, AT and N percentages in the same bins as the inner plot.
